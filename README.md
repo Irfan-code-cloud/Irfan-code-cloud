@@ -25,5 +25,5 @@ I am a Computer Science student at the Virtual University of Pakistan with a str
 ### 📫 Let's Connect
 I am actively seeking **Data Analyst** and tech-focused administrative opportunities where I can bring my technical problem-solving skills to the table. Let's build something great together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/irfan-khattak-00b847251)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-khattak-00b847251)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanpathan1857@gmail.com)
