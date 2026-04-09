@@ -8,9 +8,22 @@ I am a Computer Science student at the Virtual University of Pakistan with a str
 * **Web3 & Innovation:** Co-developed a Web3-based product verification system as part of the "Aura-Tech" team for the L'Oréal Brandstorm competition.
 
 ### 🛠️ Tech Stack & Skills
-* **Data & Analytics:** Data Parsing, Visualization (Tableau), Google/IBM/Microsoft Certified Data Professional.
-* **Frontend & Cloud:** React, Vercel Deployment, Firebase (Authentication & Strict Security Rules), Google Cloud APIs.
-* **Systems:** Linux enthusiast (Dual-boot setups and command-line operations).
+
+**Frontend & Cloud:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Data & Analytics:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📊 GitHub Stats
+<a href="https://github.com/Irfan-code-cloud">
+  <img src="https://github-readme-stats.vercel.app/api?username=Irfan-code-cloud&show_icons=true&theme=dark&hide_border=true" alt="Irfan's GitHub Stats" />
+</a>
 
 ### 📫 Let's Connect
 I am actively seeking **Data Analyst** and tech-focused administrative opportunities where I can bring my technical problem-solving skills to the table. Let's build something great together!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/irfan-khattak-00b847251)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanpathan1857@gmail.com)
