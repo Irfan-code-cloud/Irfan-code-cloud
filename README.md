@@ -15,7 +15,6 @@ I am a Computer Science student at the Virtual University of Pakistan with a str
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Data & Analytics:** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📊 GitHub Stats
 <a href="https://github.com/Irfan-code-cloud">
