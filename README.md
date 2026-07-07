@@ -41,7 +41,18 @@ I am a Lead Systems Engineer specializing in backend architecture, cloud infrast
 
 ---
 
-### 📊 Telemetry
+### 🛡️ Verified Credentials & Status
 
-[![Irfan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Irfan-code-cloud&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC)](https://github.com/Irfan-code-cloud)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-code-cloud&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=ffffff)](https://github.com/Irfan-code-cloud)
+**Operating Status:** Open to **Remote Engineering** roles specializing in Backend Architecture and AI Orchestration.
+
+**Active Certifications:**
+*   **Google:** Advanced Data Analytics | Business Intelligence | AI Essentials
+*   **IBM:** Data Science | Professional Soft Skills
+*   **Oracle:** SQL Databases Architecture
+*   **FreeCodeCamp:** Responsive Web Design
+
+<br>
+
+<div align="center">
+  <i>"Orchestrating autonomous solutions through scalable cloud infrastructure."</i>
+</div>
