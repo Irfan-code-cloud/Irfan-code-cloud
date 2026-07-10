@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>⚡ Irfan Khattak</h1>
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi,+I+am+Irfan+Khattak+👋;" alt="Typing Irfan Khattak" />
+</p>
   <p><b>Lead Systems Engineer | Autonomous AI Orchestration | Cloud Infrastructure</b></p>
   
   [![Portfolio](https://img.shields.io/badge/Website-irfankhattak.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.irfankhattak.com)
