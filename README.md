@@ -1,6 +1,6 @@
 <div align="center">
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=40&duration=4000&pause=2000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I+am+Irfan+Khattak+👋;" alt="Typing Irfan Khattak" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=4000&pause=2000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I+am+Irfan+Khattak+👋;" alt="Typing Irfan Khattak" />
 </p>
   <p><b>Lead Systems Engineer | Autonomous AI Orchestration | Cloud Infrastructure</b></p>
   
