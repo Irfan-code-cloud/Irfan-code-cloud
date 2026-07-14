@@ -2,7 +2,7 @@
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=4000&pause=2000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I+am+Irfan+Khattak+👋;" alt="Typing Irfan Khattak" />
 </p>
-  <p><b>Lead Systems Engineer | Autonomous AI Orchestration | Cloud Infrastructure</b></p>
+  <p><b>Lead Systems Engineer | ML Intern @ Flyrank | Autonomous AI Orchestration</b></p>
   
   [![Portfolio](https://img.shields.io/badge/Website-irfankhattak.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.irfankhattak.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-khattak-00b847251)
@@ -13,23 +13,33 @@
 
 ### 📟 System Overview
 
-I am a Lead Systems Engineer specializing in backend architecture, cloud infrastructure, and autonomous AI orchestration. I build highly scalable full-stack systems that solve complex operational challenges. My core focus is on deploying agentic workflows, high-throughput data pipelines, and responsive cross-platform applications. 
+I am a Lead Systems Engineer and current **Machine Learning Intern at Flyrank**, specializing in backend architecture, cloud infrastructure, and autonomous AI orchestration. I build highly scalable full-stack systems designed to solve complex operational challenges. My core focus is on deploying agentic workflows, high-throughput data pipelines, and responsive cross-platform applications. 
 
 ---
 
-### 🚀 Core Architectures & Systems
+### Core Architectures & Systems
+
+> [!NOTE]  
+> **Portfolio & Deployment Status**  
+> All systems listed below are my independent, open-source personal portfolio projects developed as architectural proofs-of-concept. Due to Google Cloud credit exhaustion, some live GCP links are temporarily offline. I am actively migrating them to lightweight hosting providers:
+> *   **Streamlit:** *Karachi Fleet Optimizer* & *Nexus Point*
+> *   **Hugging Face Spaces (FastAPI + Multi-Agent Pipelines):** *CIRO* & *Nexus Audit Engine*
+> *   *SalesPulse Analytics* remains fully operational.
+
+*   **Nexus Audit Engine** | *FastAPI, Multi-Agent AI, Python*
+    Developed for a Kaggle hackathon, this system leverages specialized multi-agent pipelines to automate and execute deep audits suggest code patches directly to github data and model compliance. *(Migration to Hugging Face underway)*
 
 *   **CIRO (Crisis Intelligence & Response Orchestrator)** | *Agentic AI, Gemini 2.5 Flash, Firebase, Python*
-    Engineered an independent, multi-agent autonomous system designed for urban crisis management. Built agentic workflows from the ground up to orchestrate real-time response logistics and dynamic data analysis.
+    Engineered an independent, multi-agent autonomous system designed for urban crisis management. Built agentic workflows from the ground up to orchestrate real-time response logistics and dynamic data analysis. *(Migration to Hugging Face underway)*
 
 *   **Karachi Fleet Optimizer** | *Google Cloud Platform, Python, Mapping*
-    An enterprise-grade logistics and quick-commerce tool utilizing geospatial mapping and serverless architecture to streamline deployment operations and optimize capital recovery.
+    An enterprise-grade logistics and quick-commerce tool utilizing geospatial mapping and serverless architecture to streamline deployment operations and optimize capital recovery. *(Migration to Streamlit underway)*
 
 *   **Nexus Point** | *Data Science, Machine Learning*
-    A high-throughput, real-time quick commerce storefront ecosystem engineered for low latency ordering pipelines and instant stock processing systems.
+    A high-throughput, real-time quick commerce storefront ecosystem engineered for low latency ordering pipelines and instant stock processing systems. *(Migration to Streamlit underway)*
 
 *   **SalesPulse Analytics** | *React 19, Vite, TypeScript*
-    Automated data analytics processing pipeline parsing transactional trends into highly interactive data streams and cloud-integrated user dashboards.
+    Automated data analytics processing pipeline parsing transactional trends into highly interactive data streams and cloud-integrated user dashboards. *(Fully Functional)*
 
 ---
 
@@ -45,7 +55,7 @@ I am a Lead Systems Engineer specializing in backend architecture, cloud infrast
 
 ### 🛡️ Verified Credentials & Status
 
-**Operating Status:** Open to **Remote Engineering** roles specializing in Backend Architecture and AI Orchestration.
+**Operating Status:** Currently working as an **ML Intern at Flyrank**. Open to **Remote Engineering** roles specializing in Backend Architecture and AI Orchestration.
 
 **Active Certifications:**
 *   **Google:** Advanced Data Analytics | Business Intelligence | AI Essentials
