@@ -22,7 +22,7 @@ I am a Lead Systems Engineer and current **Machine Learning Intern at Flyrank**,
 > [!NOTE]  
 > **Portfolio & Deployment Status**  
 > All systems listed below are my independent, open-source personal portfolio projects developed as architectural proofs-of-concept. Due to Google Cloud credit exhaustion, some live GCP links are temporarily offline. I am actively migrating them to lightweight hosting providers:
-> *   **Streamlit:** *Karachi Fleet Optimizer* & *Nexus Point*
+> *   **Streamlit:** *Karachi Fleet Optimizer* & *Nexus Point* (Please note: Streamlit apps sleep when inactive. **Allow ~15 seconds for these apps to wake up upon clicking**).
 > *   **Hugging Face Spaces (FastAPI + Multi-Agent Pipelines):** *CIRO* & *Nexus Audit Engine*
 > *   *SalesPulse Analytics* remains fully operational.
 
