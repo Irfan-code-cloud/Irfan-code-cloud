@@ -20,27 +20,31 @@ I am a Lead Systems Engineer and current **Machine Learning Intern at Flyrank**,
 ### Core Architectures & Systems
 
 > [!NOTE]  
-> **Portfolio & Deployment Status**  
-> All systems listed below are my independent, open-source personal portfolio projects developed as architectural proofs-of-concept. Due to Google Cloud credit exhaustion, some live GCP links are temporarily offline. I am actively migrating them to lightweight hosting providers:
-> *   **Streamlit:** *Karachi Fleet Optimizer* & *Nexus Point* (Please note: Streamlit apps sleep when inactive. **Allow ~15 seconds for these apps to wake up upon clicking**).
-> *   **Hugging Face Spaces (FastAPI + Multi-Agent Pipelines):** *CIRO* & *Nexus Audit Engine*
-> *   *SalesPulse Analytics* remains fully operational.
+> **Portfolio & Infrastructure Status**  
+> All systems listed below are independent, open-source portfolio projects developed as architectural proofs-of-concept. 
+> 
+> Due to **Cloud Credit Exhaustion**, the live backend APIs for my heavy AI-orchestration projects (*CIRO* and *Nexus Audit Engine*) are temporarily offline. Both systems run on heavy **FastAPI backends** that require persistent Docker containerization. Currently, I do not have the budget to deploy these systems on enterprise providers like Google Cloud, AWS, or Azure. Furthermore, since Hugging Face Spaces no longer offers free Docker hosting, it is no longer a viable zero-cost alternative for these architectures.
+> 
+> **Current Operating Status:**
+> *   **CIRO (Offline):** The frontend is a **Flutter mobile app**. Please note that if you install the app, **it will not function** because the required FastAPI backend is currently offline.
+> *   **Nexus Audit Engine (Partial):** The React frontend remains live on Vercel, but the FastAPI backend is offline. The complete system can easily be run locally following the instructions in the repository.
+> *   **Streamlit (Live):** *Karachi Fleet Optimizer* & *Nexus Point* have been successfully migrated. *(Note: Streamlit apps sleep when inactive. Allow ~15 seconds for these apps to wake up).*
+> *   **Vercel (Live):** *SalesPulse Analytics* remains fully operational.
 
-*   **Nexus Audit Engine** | *FastAPI, Multi-Agent AI, Python*
-    Developed for a Kaggle hackathon, this system leverages specialized multi-agent pipelines to automate and execute deep audits suggest code patches directly to github data and model compliance. *(Migration to Hugging Face underway)*
+*   **Nexus Audit Engine** | *FastAPI, Multi-Agent AI, Python, React*
+    Developed for a Kaggle hackathon, this system leverages specialized multi-agent pipelines to automate and execute deep audits and suggest code patches directly to GitHub. *(Frontend Live on Vercel | FastAPI Backend Offline)*
 
-*   **CIRO (Crisis Intelligence & Response Orchestrator)** | *Agentic AI, Gemini 2.5 Flash, Firebase, Python*
-    Engineered an independent, multi-agent autonomous system designed for urban crisis management. Built agentic workflows from the ground up to orchestrate real-time response logistics and dynamic data analysis. *(Migration to Hugging Face underway)*
+*   **CIRO (Crisis Intelligence & Response Orchestrator)** | *Agentic AI, Flutter, FastAPI, Gemini 2.5 Flash*
+    Engineered an independent, multi-agent autonomous system designed for urban crisis management. Built agentic workflows from the ground up to orchestrate real-time response logistics and dynamic data analysis. *(Flutter Mobile App | FastAPI Backend Offline - App Non-Functional)*
 
-*   **Karachi Fleet Optimizer** | *Google Cloud Platform, Python, Mapping*
-    An enterprise-grade logistics and quick-commerce tool utilizing geospatial mapping and serverless architecture to streamline deployment operations and optimize capital recovery. *(Migration to Streamlit underway)*
+*   **Karachi Fleet Optimizer** | *Streamlit Cloud, Python, Mapping*
+    An enterprise-grade logistics and quick-commerce tool utilizing geospatial mapping and serverless architecture to streamline deployment operations and optimize capital recovery. *(Fully Functional)*
 
-*   **Nexus Point** | *Data Science, Machine Learning*
-    A high-throughput, real-time quick commerce storefront ecosystem engineered for low latency ordering pipelines and instant stock processing systems. *(Migration to Streamlit underway)*
+*   **Nexus Point** | *Data Science, Machine Learning, Streamlit Cloud*
+    A high-throughput, real-time quick commerce storefront ecosystem engineered for low latency ordering pipelines and instant stock processing systems. *(Fully Functional)*
 
 *   **SalesPulse Analytics** | *React 19, Vite, TypeScript*
     Automated data analytics processing pipeline parsing transactional trends into highly interactive data streams and cloud-integrated user dashboards. *(Fully Functional)*
-
 ---
 
 ### 🛠️ Technical Command Center
